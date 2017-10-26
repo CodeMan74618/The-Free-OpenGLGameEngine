@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1508651665 source:c:\users\emman\desktop\emmanuels_opengl_game_engine_v0.1\main.cpp
+	<iostream>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+
+1508478496 source:c:\users\emman\desktop\emmanuels_opengl_game_engine_v0.1\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<dlfcn.h>
+
